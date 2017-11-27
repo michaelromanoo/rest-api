@@ -1,0 +1,21 @@
+{
+  "name": "bucketlist",
+  "version": "1.0.0",
+  "description": "simple to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Romano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.3"
+  }
+}
