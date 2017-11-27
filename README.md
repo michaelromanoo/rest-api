@@ -1,4 +1,4 @@
-# rest-apiT
+# rest-api
 this is a simple functional REST API which makes use of POST, GET, UPDATE and DELETE with the use of Postman
 
 To successfully use this rest api, download the required packages via npm
